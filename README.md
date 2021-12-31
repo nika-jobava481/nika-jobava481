@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nika-jobava481
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning Front end web development
+- 🌱 I’m currently learning Front end web development and computer science intro with Python and C
 
 - 📫 How to reach me: https://www.facebook.com/nika.jobava.481
 
